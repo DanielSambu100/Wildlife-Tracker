@@ -1,8 +1,8 @@
 # Wildlife-Tracker
-
+A wildlife tracking app to track both animal and sighting categories by the forest rangers. 
 
 ## Description
-
+The objective is achieved by implementing java(objects, interface, exception-handling, etc), spark,database(production database, development database, proper naming conventions). Database setup and commands are highlighted herein.
 
 ## Live Link
 
